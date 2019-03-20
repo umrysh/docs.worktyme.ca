@@ -5,11 +5,11 @@ type: docs
 
 # Company holidays
 
-To access the company settings page navigate to "Administration" and then click on "Holidays" in the left-hand menu. The "Administration" menu is only visible to the admins in your account (see user types for more information).
+To access the company settings page navigate to "Administration" and then click on "Holidays" in the left-hand menu. The "Administration" menu is only visible to the admins in your account (see [user types]({{< relref "/docs/user_types.md" >}}) for more information).
 
 Holidays are used when you need to set statutory or company wide holidays. For example, Christmas or Thanksgiving.
 
-When you add a holiday a timeslip is created for all of your current employees in Work Tyme. When you add a new employee into Work Tyme the system will create timeslips for them for all holidays scheduled in the future.
+When you add a holiday a [timeslip]({{< relref "/docs/time_slips.md" >}}) is created for all of your current employees in Work Tyme. When you [add a new employee]({{< relref "/docs/employees.md" >}}#add-an-employee) into Work Tyme the system will create timeslips for them for all holidays scheduled in the future.
 
 ![Holidays](/docs/img/holidays.png)
 
@@ -19,7 +19,7 @@ To add a holiday simply click on the date in the calendar. You will be asked to 
 
 ![Confirm holiday](/docs/img/holidays_confirm.png)
 
-You with then be asked if you wish to set custom hours for this holiday. Custom hours are used if you need, for example, to set a holiday to only be 4 hours. More often than not you will not set custom hours for a holiday and instead have Work Tyme assign each employee the appropriate amount of holiday hours based on each employee's _"Default hours for statutory holidays"_ setting (This can be set in an employee's advanced settings page). By default an employee's _"Default hours for statutory holidays"_ is set to 8 hours.
+You with then be asked if you wish to set custom hours for this holiday. Custom hours are used if you need, for example, to set a holiday to only be 4 hours. More often than not you will not set custom hours for a holiday and instead have Work Tyme assign each employee the appropriate amount of holiday hours based on each employee's _"Default hours for statutory holidays"_ setting (This can be set in an employee's [advanced settings page]({{< relref "/docs/employees.md" >}}#edit-an-employee)). By default an employee's _"Default hours for statutory holidays"_ is set to 8 hours.
 
 ![Custom hours holiday](/docs/img/holidays_custom.png)
 

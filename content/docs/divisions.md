@@ -11,7 +11,7 @@ Sub-divisions are used if you need a way to break down a division even further. 
 
 _Note: Sub-divisions are not exported to Sage 50_
 
-To make changes to department divisions click on the name of the department in the list. The department divisions page is only visible to the admins in your account (see user types for more information).
+To make changes to department divisions click on the name of the department in the list. The department divisions page is only visible to the admins in your account (see [user types]({{< relref "/docs/user_types.md" >}}) for more information).
 
 ![Departments](/docs/img/departments.png)
 

@@ -5,7 +5,7 @@ type: docs
 
 # Departments
 
-Using the menu on the left-hand side of the page click on "Administration" and then on "Departments". The "Administration" menu is only visible to the admins in your account (see user types for more information).
+Using the menu on the left-hand side of the page click on "Administration" and then on "Departments". The "Administration" menu is only visible to the admins in your account (see [user types]({{< relref "/docs/user_types.md" >}}) for more information).
 
 ![Departments](/docs/img/departments.png)
 
