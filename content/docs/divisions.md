@@ -43,4 +43,4 @@ To delete a subdivision click on the trash bin icon beside it's name in the list
 
 # Next steps
 
-Now that we have all of our [departments]({{< relref "/docs/departments.md" >}}) and divisions added we need to tell Work Tyme who should be allowed to approve any timeslips entered with these divisions
+Now that we have all of our [departments]({{< relref "/docs/departments.md" >}}) and divisions added we need to tell Work Tyme who should be allowed to [approve]({{< relref "/docs/approvers.md" >}}) any timeslips entered with these divisions
