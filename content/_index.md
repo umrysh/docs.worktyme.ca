@@ -9,7 +9,7 @@ type: docs
 
 _**Note: Work Tyme is free for up to three employees. Once you attempt to create your fourth employee you will be prompted to enter your credit card details into Stripe but this doesn't necessarily mean you will start being billed (see [billing]({{< relref "/docs/billing.md" >}}) for more information).**_
 
-To create an account on Work Tyme for your business visit the [registration page](https://worktyme.ca/admin/index.php?register) and fill in the information to create your account. This process will not only create your business account but also an employee account for yourself. You will automatically be set as an admin for your business account.
+To create an account on Work Tyme for your business visit the [registration page](https://worktyme.ca/portal/index.php?register) and fill in the information to create your account. This process will not only create your business account but also an employee account for yourself. You will automatically be set as an admin for your business account.
 
 ![Registration](/docs/img/registration.png)
 

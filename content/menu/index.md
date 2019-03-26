@@ -27,4 +27,5 @@ headless: true
 - [**Time slips**]({{< relref "/docs/time_slips.md" >}})
 - [**Todo lists**]({{< relref "/docs/todo_lists.md" >}})
 - [**Reports**]({{< relref "/docs/reports.md" >}})
+  - [Email Addresses]({{< relref "/docs/email_report.md" >}})
   - [Payroll]({{< relref "/docs/payroll_report.md" >}})
