@@ -32,3 +32,4 @@ headless: true
   - [Email Addresses]({{< relref "/docs/email_report.md" >}})
   - [Payroll]({{< relref "/docs/payroll_report.md" >}})
 - [**Export to Sage 50**]({{< relref "/docs/export_sage.md" >}})
+- [**Delete Account**]({{< relref "/docs/delete_account.md" >}})
