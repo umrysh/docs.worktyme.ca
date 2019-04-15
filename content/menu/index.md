@@ -9,6 +9,7 @@ headless: true
   - [Company settings]({{< relref "/docs/company_settings.md" >}})
   - [Holidays]({{< relref "/docs/holidays.md" >}})
 - [**Billing**]({{< relref "/docs/billing.md" >}})
+- [**Delete Account**]({{< relref "/docs/delete_account.md" >}})
 - [**Equipment usage tracking**]({{< relref "/docs/equipment_usage_tracking.md" >}})
 - [**Employees**]({{< relref "/docs/employees.md" >}})
   - [Emergency contact information]({{< relref "/docs/emergency_contact.md" >}})
@@ -32,4 +33,3 @@ headless: true
   - [Email Addresses]({{< relref "/docs/email_report.md" >}})
   - [Payroll]({{< relref "/docs/payroll_report.md" >}})
 - [**Export to Sage 50**]({{< relref "/docs/export_sage.md" >}})
-- [**Delete Account**]({{< relref "/docs/delete_account.md" >}})
