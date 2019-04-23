@@ -31,5 +31,6 @@ headless: true
 - [**Reports**]({{< relref "/docs/reports.md" >}})
   - [Allocation]({{< relref "/docs/allocation_report.md" >}})
   - [Email Addresses]({{< relref "/docs/email_report.md" >}})
+  - [Employee Summary]({{< relref "/docs/employee_summary_report.md" >}})
   - [Payroll]({{< relref "/docs/payroll_report.md" >}})
 - [**Export to Sage 50**]({{< relref "/docs/export_sage.md" >}})
