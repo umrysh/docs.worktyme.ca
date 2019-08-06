@@ -47,6 +47,14 @@ The employee is then emailed that their time off has been approved and the time 
 
 ![Time off](/docs/img/time_off_email_approve.png)
 
+## Canceling a time off request
+
+If you have requested a time off in error you can view and delete any of your outstanding (not approved) time off via the table located below the time off calendar.
+
+![Time off](/docs/img/time_off_cancel.png)
+
+To cancel a request simply click on the trash bin icon.
+
 ## Revoking already approved time off
 
 Should you need to revoke approved time off simply open the time off by either clicking on it in the time off calendar or finding it in the [time slip]({{< relref "/docs/time_slips.md" >}}) section of the portal. Then change the status of the time slip item to "NA" and click on the button labeled "Save time slip information".
