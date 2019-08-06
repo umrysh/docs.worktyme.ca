@@ -49,7 +49,7 @@ The employee is then emailed that their time off has been approved and the time 
 
 ## Revoking already approved time off
 
-Should you need to revoke approved time off open the [time slip]({{< relref "/docs/time_slips.md" >}}), change the status of the time slip item to "NA" and click on the button labeled "Save time slip information".
+Should you need to revoke approved time off simply open the time off by either clicking on it in the time off calendar or finding it in the [time slip]({{< relref "/docs/time_slips.md" >}}) section of the portal. Then change the status of the time slip item to "NA" and click on the button labeled "Save time slip information".
 
 ![Time off](/docs/img/time_off_open_ts.png)
 
