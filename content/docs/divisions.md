@@ -41,6 +41,12 @@ To delete a subdivision click on the trash bin icon beside it's name in the list
 
 ![Delete department](/docs/img/subdivisions_remove.png)
 
+## Editing the name of a division or sub-division
+
+To update the name of a division or sub-division click on the pencil icon located to the left of the trash bin icon. This can be used, for example, if you accidentally entered the division name incorrectly and it therefore does not match the Timeslip Division you have in your Sage 50 system. Changing the name of the division will automatically update the name on all your employee's previously saved time slips.
+
+![Editing division name](/docs/img/edit_divisions.png)
+
 # Next steps
 
 Now that we have all of our [departments]({{< relref "/docs/departments.md" >}}) and divisions added we need to tell Work Tyme who should be allowed to [approve]({{< relref "/docs/approvers.md" >}}) any timeslips entered with these divisions
