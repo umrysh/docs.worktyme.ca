@@ -15,9 +15,9 @@ To create an account on Work Tyme for your business visit the [registration page
 
 ## First Login
 
-When you first login you will be shown your [profile page]({{< relref "/docs/profile_pages.md" >}}). All of your employees are shown their own profile page when they first login. An employee is able to fill in and update any information on their own profile page. Admins can also modify and change any other employee's profile page information (including the profile pages of other admins)
+When you first login you will be presented the [staff directory]({{< relref "/docs/directory.md" >}}).
 
-![Profile page](/docs/img/home_page.png)
+![home page](/docs/img/directory_page.png)
 
 # Next steps
 

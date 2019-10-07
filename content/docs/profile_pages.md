@@ -5,7 +5,7 @@ type: docs
 
 # Profile pages
 
-When an employee logs into Work Tyme they are presented with their own profile page and are able to make any changes as needed to their profile information. When an employee views the profile page of a coworker (by clicking on the coworker's name in the staff [directory]({{< relref "/docs/directory.md" >}})) they are shown a read-only subset of the profile information.
+When an employee views their own profile page they are able to make any changes as needed to their profile information. When an employee views the profile page of a coworker (by clicking on the coworker's name in the staff [directory]({{< relref "/docs/directory.md" >}})) they are shown a read-only subset of the profile information.
 
 Admins are able to view all employee's profile pages in full edit mode.
 
