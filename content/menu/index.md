@@ -12,6 +12,7 @@ headless: true
 - [**Delete Account**]({{< relref "/docs/delete_account.md" >}})
 - [**Equipment usage tracking**]({{< relref "/docs/equipment_usage_tracking.md" >}})
 - [**Employees**]({{< relref "/docs/employees.md" >}})
+  - [Documents]({{< relref "/docs/documents.md" >}})
   - [Emergency contact information]({{< relref "/docs/emergency_contact.md" >}})
   - [Former employees]({{< relref "/docs/former_employees.md" >}})
   - [Historical Salary & Bonus]({{< relref "/docs/salary.md" >}})

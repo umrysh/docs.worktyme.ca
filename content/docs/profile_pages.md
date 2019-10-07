@@ -55,4 +55,8 @@ When an admin views an employee's profile page they are able to make all of the 
 
 In addition to updating the employee's contact and emergency contact information an admin can also mange the employee's Salary and Bonus history by clicking on the headings titled "Salary history" and "Bonus history". Please see the page for [Historical Salary & Bonus]({{< relref "/docs/salary.md" >}}) for more information.
 
+An administrator also has the ability to add [documents]({{< relref "/docs/documents.md" >}}) to an employee's profile. These documents are only visible to other administrators and are a good way to store things like an employee's resume for future reference.
+
+![Employee documents](/docs/img/employee_documents.png)
+
 Lastly an admin is also able to view the current status of the employee's [todo list]({{< relref "/docs/todo_lists.md" >}}) items. An admin can also check (and uncheck) any items from an employee's todo list. If a todo list item contains a signed document the admin will be given a download link beside the todo item that will allow them to download the last page of the applicable document containing the employee's name, signature, and signature date appended to the lower left hand corner of the page.
