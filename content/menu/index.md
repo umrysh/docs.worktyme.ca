@@ -18,6 +18,7 @@ headless: true
   - [Profile pages]({{< relref "/docs/profile_pages.md" >}})
   - [Staff directory]({{< relref "/docs/directory.md" >}})
   - [User types]({{< relref "/docs/user_types.md" >}})
+- [**Expense tracking**]({{< relref "/docs/expenses.md" >}})
 - [**Health & Safety**]({{< relref "/docs/hands.md" >}})
   - [Certifications]({{< relref "/docs/certifications.md" >}})
 - [**Job costing**]({{< relref "/docs/job_costing.md" >}})
