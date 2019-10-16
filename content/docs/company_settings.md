@@ -18,6 +18,7 @@ The company settings page can be thought of as way to set some general settings 
 * **Enable employee expense tracking:** _Coming soon..._
 * **Enable happy birthday emails:** _Since Work Tyme has all of your employee's birthdays we thought we could give you the option if you would like us to send a birthday greeting email to them on their birthdays. All the admins on your account will also be BBC'd on these emails so they can get a reminder when it is someone's birthday :)_
 * **Enable the sending of daily time-off digest emails to supervisors:** _When enabled Work Tyme will send out a digest every morning detailing any time off that is booked for the day. The alerts are sent to the employee's supervisor as well as anybody who has time off alerts enabled for the particular employee's department ( see the [advanced settings]({{< relref "/docs/employees.md" >}}#edit-an-employee) page for more information)._
+* **Enable the sending of daily work anniversary emails to admins:** _When enabled Work Tyme will send out a digest every morning detailing any work anniversaries that are occurring that day (3 month, 5 month, 6 month, 1 year, 5 year, 10 year, and every 5 years thereafter)._
 
 # Next steps
 
