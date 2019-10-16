@@ -13,7 +13,7 @@ Click on the menu item titled "Reports" and then on "Email Addresses". You will 
 
 Click the button titled "Export the data". You will be prompted to download a CSV containing your report.
 
-The Email Addresses report is simply a spreadsheet showing the name, username, and email address for the employee's in Work Tyme.
+The Email Addresses report is simply a spreadsheet showing the name, username, email address, and last active date for the employees in Work Tyme (former employees are not included in the report).
 
 ![Email report](/docs/img/email_report.png)
 
