@@ -11,11 +11,13 @@ We do this in a two step process. First you download an export data file from th
 
 ## Export data from Work Tyme
 
-Only admins are able to export data from Work Tyme to Sage 50 (see [user types]({{< relref "/docs/user_types.md" >}}) for more information). In the left hand men click on the menu option titled "Export to Sage". You will be shown the Export to Sage 50 screen.
+Only admins are able to export data from Work Tyme to Sage 50 (see [user types]({{< relref "/docs/user_types.md" >}}) for more information). In the left hand menu click on the menu option titled "Export to Sage". You will be shown the Export to Sage 50 screen.
 
 ![Export to Sage](/docs/img/export_to_sage_page.png)
 
 First select the pay period you are wanting to export. This will update the list of employees.
+
+Next, select whether you are wanting to export all employees, only hourly employees, or only salary employees. Changing this selection will update the list of employees.
 
 Beside the name of each employee you are shown how many time slips they have approved out of the total time slips they have submitted in this pay period (see [status options]({{< relref "/docs/time_slips_status.md" >}}) for more information).
 
