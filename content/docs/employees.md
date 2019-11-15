@@ -22,6 +22,7 @@ The first section is for the basic account information:
 * **Email:** _Work Tyme utilizes an employee's email for forgot password links, [time-off]({{< relref "/docs/time_off.md" >}}) requests, login, etc_
 * **Account admin:** _If an employee is an account admin they have full control of your entire Work Tyme account. Usually HR managers would be the only admins for your account_
 * **Certifications admin:** _Work Tyme has a [certifications]({{< relref "/docs/certifications.md" >}}) module that allows you to upload PDFs of training certifications and assign them to the specific employees. Usually this is not handled directly by HR but by the Health & Safety team members._
+* **Expenses admin:** _An expenses admin is a regular user account that has been given administrative rights to the [expenses]({{< relref "/docs/expenses.md" >}}) module for the company. They will be able to manage the company cards as well as manage all expenses uploaded to your company. They will also be able to download expense reports and lock expenses from being edited by regular users._
 
 ![Employee information](/docs/img/add_employee_info.png)
 
@@ -76,6 +77,7 @@ The first section is for the basic account information:
 * **Email:** _Work Tyme utilizes an employee's email for forgot password links, [time-off]({{< relref "/docs/time_off.md" >}}) requests, login, etc_
 * **Account admin:** _If an employee is an account admin they have full control of your entire Work Tyme account. Usually HR managers would be the only admins for your account_
 * **Certifications admin:** _Work Tyme has a [certifications]({{< relref "/docs/certifications.md" >}}) module that allows you to upload PDFs of training certifications and assign them to the specific employees. Usually this is not handled directly by HR but by the Health & Safety team members._
+* **Expenses admin:** _An expenses admin is a regular user account that has been given administrative rights to the [expenses]({{< relref "/docs/expenses.md" >}}) module for the company. They will be able to manage the company cards as well as manage all expenses uploaded to your company. They will also be able to download expense reports and lock expenses from being edited by regular users._
 
 ![Employee information](/docs/img/add_employee_info.png)
 

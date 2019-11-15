@@ -24,6 +24,7 @@ headless: true
   - [Certifications]({{< relref "/docs/certifications.md" >}})
 - [**Job costing**]({{< relref "/docs/job_costing.md" >}})
 - [**Mobile apps**]({{< relref "/docs/apps.md" >}})
+  - [Expenses]({{< relref "/docs/app_expenses.md" >}})
   - [Time off]({{< relref "/docs/app_time_off.md" >}})
   - [Time slips]({{< relref "/docs/app_time_slips.md" >}})
 - [**Org chart**]({{< relref "/docs/org_chart.md" >}})
