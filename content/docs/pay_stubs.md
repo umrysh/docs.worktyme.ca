@@ -29,6 +29,6 @@ The next time you process your pay stubs Sage 50 will send the pay stubs to each
 
 ## Accessing pay stubs
 
-Employees can access any uploaded pay stubs by clicking on "Paystubs" in the left hand menu. They will be presented with a list of their pay stubs and they can click on the name of the pay stub to download a copy.
+Employees can access any uploaded pay stubs by clicking on "Paystubs" in the left hand menu. They will be presented with a list of their pay stubs and they can click on the name of the pay stub to download a copy. T4s are listed in the same table, but are colored in green.
 
 ![Paystubs](/docs/img/paystubs.png)

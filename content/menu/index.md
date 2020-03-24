@@ -29,6 +29,7 @@ headless: true
   - [Time slips]({{< relref "/docs/app_time_slips.md" >}})
 - [**Org chart**]({{< relref "/docs/org_chart.md" >}})
 - [**Pay stubs**]({{< relref "/docs/pay_stubs.md" >}})
+  - [T4 slips]({{< relref "/docs/t4.md" >}})
 - [**Time off**]({{< relref "/docs/time_off.md" >}})
 - [**Time slips**]({{< relref "/docs/time_slips.md" >}})
   - [Status options]({{< relref "/docs/time_slips_status.md" >}})
