@@ -46,6 +46,8 @@ The lower sections is where the different todo list items are defined. To add a 
 
 _If you have uploaded multiple copies of the document in the other languages that Work Tyme supports you can click on "Add file" again and add in line items for each of the languages_
 
+Located below the "Field Name" property is a drop down list that lets you select when you wish for this todo item to be made available to new hires. The options currently available are; immediately, in 3 months after hire, or in 6 months after hire.
+
 
 ## Completing todo list items
 
